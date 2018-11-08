@@ -1,44 +1,43 @@
-from wifi24_parent import *
+from wifi5_parent import *
 
-class OpenSec(TestWifi24):
-    
-    def test_open_sec(self):
-        """Connect station to open wifi network"""
+class DefaultKey(TestWifi5):
 
-        network = conn()
+    def test_defaultkey(self):
+        """Connect client to DUT wifi 5.0Ghz network with default key
+        """
+
         assertion = Assert()
+        network = conn()
 
         # select wireless interface and enable wireless
         radio_page = RadioPage(self.firefox)
-        radio_page.select_wifi_interface(iface="2.4GHZ")
-        radio_page.enable_wireless()
+        radio_page.select_wifi_interface(iface="5.0GHZ")
+        radio_page.enable(radio_page.get_wireless())
         radio_page.apply_changes()
 
         # assert wireless and bandwidth
-        assertion.is_equal(radio_page.get_wifi_interface(), "2.4 Ghz")
-        assertion.is_equal(radio_page.wireless_isenabled(), "Enabled")
+        assertion.is_equal(radio_page.get_wifi_interface(), "5 Ghz")
+        wireless = radio_page.get_wireless()
+        assertion.is_true(radio_page.is_enabled(wireless), "Wireless")
 
-        # disable WPA2
+        # enable primary network -> broadcast ssid
         network_page = NetworkPage(self.firefox)
         network_page.enable(network_page.get_primary_network())
-        network_page.disable(network_page.get_wpa2())
         network_page.apply_changes()
 
-        # assert WPA2 (therefore WPA too for 3P Box) is disabled
-        assertion.is_true(network_page.is_enabled(
-                          network_page.get_primary_network()),
-                          'Primary Network')
-        assertion.is_false(network_page.is_enabled(
-                           network_page.get_wpa2()), 'WPA 2')
+        # assert primary network is enabled
+        netwrk = network_page.get_primary_network()
+        assertion.is_true(network_page.is_enabled(netwrk), 'Primary Network')
 
         # Wifi connection attempt
-        network.reset_network_mngr()
-        time.sleep(5)
-        wifi_connection = network.wifi_connection_nosec(ssid=self.SSID)
+        wifi_connection = network.wifi_connection(
+            ssid=self.SSID, pswd=self.SSID_PASS, timeout=20)
         try:
             assertion.is_wificonnected(wifi_connection)
         except WifiConnError:
-            self.reset_wifisession(self.firefox, self.SSID)
+            # reset changes
+            radio_page = RadioPage(self.firefox)
+            radio_page.reset_wireless_default()
             raise
 
         # Disconnect wired interface
@@ -51,8 +50,8 @@ class OpenSec(TestWifi24):
             raise
 
         # ping attempt
+        ip = '192.168.0.1'
         wifi_iface = network.wifi_iface_name()  # get name of wifi iface
-        ip = 'www.google.com'
         ping_attempt = network.ping_attempt(wifi_iface, ip)
         try:
             assertion.is_sucessful(ping_attempt, "ping attempt")
