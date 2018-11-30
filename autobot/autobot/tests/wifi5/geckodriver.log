@@ -1,0 +1,764 @@
+1543211414401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ck8DHoTQlx6z"
+
+(firefox:14844): Gtk-WARNING **: 01:50:14.898: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14844): Gtk-WARNING **: 01:50:14.898: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543211415912	Marionette	INFO	Listening on port 36357
+1543211416011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543211425126	Marionette	INFO	Stopped listening on port 36357
+[Parent 14844, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543211910219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MvewDdiRgjo3"
+
+(firefox:15788): Gtk-WARNING **: 01:58:30.695: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15788): Gtk-WARNING **: 01:58:30.695: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543211911655	Marionette	INFO	Listening on port 33667
+1543211911729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543211915244	Marionette	INFO	Stopped listening on port 33667
+[Parent 15788, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15788, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543212948252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YbQBLjNm5XLS"
+
+(firefox:17525): Gtk-WARNING **: 02:15:48.699: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17525): Gtk-WARNING **: 02:15:48.699: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543212949655	Marionette	INFO	Listening on port 42733
+1543212949661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543212954327	Marionette	INFO	Stopped listening on port 42733
+[Parent 17525, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 17525, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to stat
+ExceptionHandler::GenerateDump cloned child 17842
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1543213591916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0F7OfzGbVlNh"
+
+(firefox:18692): Gtk-WARNING **: 02:26:32.403: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18692): Gtk-WARNING **: 02:26:32.403: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543213593366	Marionette	INFO	Listening on port 45803
+1543213593428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543213634907	Marionette	INFO	Stopped listening on port 45803
+[Parent 18692, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to stat
+1543213761090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7xDyg2kL8Wzk"
+
+(firefox:19115): Gtk-WARNING **: 02:29:21.572: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19115): Gtk-WARNING **: 02:29:21.572: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543213762498	Marionette	INFO	Listening on port 42141
+1543213762595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543213837436	Marionette	INFO	Stopped listening on port 42141
+[Parent 19115, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543214408339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UBa1Mw57Ld3j"
+
+(firefox:20115): Gtk-WARNING **: 02:40:08.819: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20115): Gtk-WARNING **: 02:40:08.819: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543214409816	Marionette	INFO	Listening on port 43787
+1543214409845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543214496063	Marionette	INFO	Stopped listening on port 43787
+[Parent 20115, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 20115, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+ExceptionHandler::GenerateDump cloned child 20691
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1543214655570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.phpsaCjUQybR"
+
+(firefox:20831): Gtk-WARNING **: 02:44:16.051: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20831): Gtk-WARNING **: 02:44:16.051: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543214657057	Marionette	INFO	Listening on port 42313
+1543214657076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543214742852	Marionette	INFO	Stopped listening on port 42313
+[Parent 20831, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 20831, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+ExceptionHandler::GenerateDump cloned child 21388
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1543214825799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VfRqcV061NXn"
+
+(firefox:21433): Gtk-WARNING **: 02:47:06.275: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21433): Gtk-WARNING **: 02:47:06.275: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543214827250	Marionette	INFO	Listening on port 33761
+1543214827314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543214913658	Marionette	INFO	Stopped listening on port 33761
+[Parent 21433, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543215038885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v3Gxup4A41Lu"
+
+(firefox:22007): Gtk-WARNING **: 02:50:39.364: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22007): Gtk-WARNING **: 02:50:39.364: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543215040314	Marionette	INFO	Listening on port 41481
+1543215040396	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22007, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 22007, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543215061398	Marionette	INFO	Stopped listening on port 41481
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+1543215077596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6E972c2XLhvI"
+
+(firefox:22277): Gtk-WARNING **: 02:51:18.058: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22277): Gtk-WARNING **: 02:51:18.058: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543215079005	Marionette	INFO	Listening on port 44131
+1543215079104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543215300469	Marionette	INFO	Stopped listening on port 44131
+[Parent 22277, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543215572127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XWeWHjR4eN1W"
+
+(firefox:23603): Gtk-WARNING **: 02:59:32.622: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23603): Gtk-WARNING **: 02:59:32.622: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543215573611	Marionette	INFO	Listening on port 37713
+1543215573638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543215747329	Marionette	INFO	Stopped listening on port 37713
+[Parent 23603, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 23603, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543215761744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DMy4GM5zHh97"
+
+(firefox:24586): Gtk-WARNING **: 03:02:42.276: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24586): Gtk-WARNING **: 03:02:42.276: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543215763268	Marionette	INFO	Listening on port 33575
+1543215763355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543215767557	Marionette	INFO	Stopped listening on port 33575
+[Parent 24586, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 24586, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543215865419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Zht9uVlcFn6b"
+
+(firefox:24946): Gtk-WARNING **: 03:04:25.911: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24946): Gtk-WARNING **: 03:04:25.911: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543215866901	Marionette	INFO	Listening on port 37571
+1543215866925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543215893492	Marionette	INFO	Stopped listening on port 37571
+[Parent 24946, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 24946, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to stat
+1543216779703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F2ohjV6Wn0Lc"
+
+(firefox:26497): Gtk-WARNING **: 03:19:40.170: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26497): Gtk-WARNING **: 03:19:40.170: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543216781210	Marionette	INFO	Listening on port 33183
+1543216781309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543216865438	Marionette	INFO	Stopped listening on port 33183
+[Parent 26497, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543217671236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ecXggst3diwT"
+
+(firefox:28299): Gtk-WARNING **: 03:34:31.704: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28299): Gtk-WARNING **: 03:34:31.704: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543217672698	Marionette	INFO	Listening on port 37785
+1543217672745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543217819134	Marionette	INFO	Stopped listening on port 37785
+[Parent 28299, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 28299, Gecko_IOThread] WARNING: pipe error (101): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543344874119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xQw6yGtxUd0S"
+
+(firefox:9198): Gtk-WARNING **: 14:54:34.601: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9198): Gtk-WARNING **: 14:54:34.601: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543344875583	Marionette	INFO	Listening on port 33603
+1543344875626	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543345066582	Marionette	INFO	Stopped listening on port 33603
+[Parent 9198, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543345530469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C45TJs6NHoBo"
+
+(firefox:10532): Gtk-WARNING **: 15:05:30.944: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10532): Gtk-WARNING **: 15:05:30.944: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543345531870	Marionette	INFO	Listening on port 33769
+1543345531877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543345716441	Marionette	INFO	Stopped listening on port 33769
+[Parent 10532, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543345763529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yoXtJCXtkwQF"
+
+(firefox:11515): Gtk-WARNING **: 15:09:23.995: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11515): Gtk-WARNING **: 15:09:23.995: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543345764883	Marionette	INFO	Listening on port 40345
+1543345764941	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11515, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11515, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543345772238	Marionette	INFO	Stopped listening on port 40345
+1543345803779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.INTgiimtqb3T"
+
+(firefox:11890): Gtk-WARNING **: 15:10:04.249: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11890): Gtk-WARNING **: 15:10:04.249: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543345805240	Marionette	INFO	Listening on port 40237
+1543345805284	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543346018287	Marionette	INFO	Stopped listening on port 40237
+[Parent 11890, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543346745953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ygXP7vg4muFG"
+
+(firefox:13872): Gtk-WARNING **: 15:25:46.441: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13872): Gtk-WARNING **: 15:25:46.441: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543346747398	Marionette	INFO	Listening on port 33289
+1543346747473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543346933854	Marionette	INFO	Stopped listening on port 33289
+[Parent 13872, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543347026809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ClNq2Km8aZbv"
+
+(firefox:14434): Gtk-WARNING **: 15:30:27.289: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14434): Gtk-WARNING **: 15:30:27.289: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543347028271	Marionette	INFO	Listening on port 41087
+1543347028318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543347239451	Marionette	INFO	Stopped listening on port 41087
+[Parent 14434, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543347293818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YlUN28d3yZbW"
+
+(firefox:15655): Gtk-WARNING **: 15:34:54.294: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15655): Gtk-WARNING **: 15:34:54.294: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543347295251	Marionette	INFO	Listening on port 38495
+1543347295348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543347506858	Marionette	INFO	Stopped listening on port 38495
+[Parent 15655, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543348149995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.144hhYtPLG3o"
+
+(firefox:17561): Gtk-WARNING **: 15:49:10.477: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17561): Gtk-WARNING **: 15:49:10.477: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543348151441	Marionette	INFO	Listening on port 34573
+1543348151501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543348209869	Marionette	INFO	Stopped listening on port 34573
+[Parent 17561, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 17561, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543348245615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4CRGvwwJJrPz"
+
+(firefox:18166): Gtk-WARNING **: 15:50:46.076: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18166): Gtk-WARNING **: 15:50:46.076: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543348247079	Marionette	INFO	Listening on port 40149
+1543348247125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543348308482	Marionette	INFO	Stopped listening on port 40149
+[Parent 18166, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543429648775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VAx2GWEE0wj8"
+
+(firefox:19271): Gtk-WARNING **: 14:27:29.290: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19271): Gtk-WARNING **: 14:27:29.290: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543429650209	Marionette	INFO	Listening on port 43837
+1543429650282	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19271, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 19271, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543429658701	Marionette	INFO	Stopped listening on port 43837
+1543429664288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aVE3V4iLFmts"
+
+(firefox:19619): Gtk-WARNING **: 14:27:44.778: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19619): Gtk-WARNING **: 14:27:44.778: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543429665672	Marionette	INFO	Listening on port 39531
+1543429665697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543429704582	Marionette	INFO	Stopped listening on port 39531
+[Parent 19619, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 19619, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543429775625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MoLlUmCRQSOP"
+
+(firefox:20091): Gtk-WARNING **: 14:29:36.078: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20091): Gtk-WARNING **: 14:29:36.078: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543429777001	Marionette	INFO	Listening on port 34385
+1543429777033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543430106693	Marionette	INFO	Stopped listening on port 34385
+[Parent 20091, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 20091, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543430121438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.igH4XIS54Ohy"
+
+(firefox:20837): Gtk-WARNING **: 14:35:21.926: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20837): Gtk-WARNING **: 14:35:21.926: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543430122868	Marionette	INFO	Listening on port 33549
+1543430122944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543430595952	Marionette	INFO	Stopped listening on port 33549
+1543430618246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3eM8ljknF6ns"
+
+(firefox:21789): Gtk-WARNING **: 14:43:38.731: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21789): Gtk-WARNING **: 14:43:38.731: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543430619726	Marionette	INFO	Listening on port 35859
+1543430619762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543430654506	Marionette	INFO	Stopped listening on port 35859
+[Parent 21789, Gecko_IOThread] WARNING: pipe error (101): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 21789, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to stat
+1543430697991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EP5nLyHByAvM"
+
+(firefox:22522): Gtk-WARNING **: 14:44:58.466: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22522): Gtk-WARNING **: 14:44:58.467: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543430699393	Marionette	INFO	Listening on port 37327
+1543430699401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543431003763	Marionette	INFO	Stopped listening on port 37327
+[Parent 22522, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 22522, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543431058533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8CAjC8RU4WIJ"
+
+(firefox:23095): Gtk-WARNING **: 14:50:59.024: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23095): Gtk-WARNING **: 14:50:59.024: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543431060109	Marionette	INFO	Listening on port 34563
+1543431060140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543431853022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ktEoPKbvP4gd"
+
+(firefox:24327): Gtk-WARNING **: 15:04:13.513: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24327): Gtk-WARNING **: 15:04:13.513: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543431854421	Marionette	INFO	Listening on port 46267
+1543431854428	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23095, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 23095, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543431860431	Marionette	INFO	Stopped listening on port 34563
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543431917859	Marionette	INFO	Stopped listening on port 46267
+[Parent 24327, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 24327, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543431962008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pcQJ6arErZzj"
+
+(firefox:25362): Gtk-WARNING **: 15:06:02.488: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25362): Gtk-WARNING **: 15:06:02.488: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543431963464	Marionette	INFO	Listening on port 46469
+1543431963519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543431981920	Marionette	INFO	Stopped listening on port 46469
+[Parent 25362, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 25362, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543432129078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dVORUVhHAM9U"
+
+(firefox:25755): Gtk-WARNING **: 15:08:49.600: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25755): Gtk-WARNING **: 15:08:49.600: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543432130603	Marionette	INFO	Listening on port 42333
+1543432130689	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25755, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 25755, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543432156145	Marionette	INFO	Stopped listening on port 42333
+1543432161456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cXmOp8AU3DN6"
+
+(firefox:25987): Gtk-WARNING **: 15:09:21.941: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25987): Gtk-WARNING **: 15:09:21.941: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543432162885	Marionette	INFO	Listening on port 34963
+1543432162960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543432168669	Marionette	INFO	Stopped listening on port 34963
+1543432204256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g4JNuCq8KV7S"
+
+(firefox:26372): Gtk-WARNING **: 15:10:04.706: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26372): Gtk-WARNING **: 15:10:04.706: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543432205600	Marionette	INFO	Listening on port 33315
+1543432205674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543432261661	Marionette	INFO	Stopped listening on port 33315
+[Parent 26372, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543432467766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ckO8RyrddxlQ"
+
+(firefox:27421): Gtk-WARNING **: 15:14:28.233: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27421): Gtk-WARNING **: 15:14:28.233: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543432469123	Marionette	INFO	Listening on port 32897
+1543432469173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543432496647	Marionette	INFO	Stopped listening on port 32897
+[Parent 27421, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543434491661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sBgI53KLUqW3"
+
+(firefox:29527): Gtk-WARNING **: 15:48:12.132: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29527): Gtk-WARNING **: 15:48:12.132: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543434493031	Marionette	INFO	Listening on port 32985
+1543434493067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543436230411	Marionette	INFO	Stopped listening on port 32985
+1543437460849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.W7FBtrdj7GMR"
+
+(firefox:32500): Gtk-WARNING **: 16:37:41.323: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:32500): Gtk-WARNING **: 16:37:41.323: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543437462224	Marionette	INFO	Listening on port 33893
+1543437462258	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 32500, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 32500, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543437516548	Marionette	INFO	Stopped listening on port 33893
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to stat
+1543437520386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G1bW80tK1E3z"
+
+(firefox:499): Gtk-WARNING **: 16:38:40.849: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:499): Gtk-WARNING **: 16:38:40.849: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543437521790	Marionette	INFO	Listening on port 33953
+1543437521892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543437696536	Marionette	INFO	Stopped listening on port 33953
+[Parent 499, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 499, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543491857829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7JNN9zm0k71I"
+
+(firefox:11501): Gtk-WARNING **: 07:44:18.952: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11501): Gtk-WARNING **: 07:44:18.952: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543491860138	Marionette	INFO	Listening on port 35989
+1543491860237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543491970237	Marionette	INFO	Stopped listening on port 35989
+[Parent 11501, Gecko_IOThread] WARNING: pipe error (105): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11501, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543491994908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3StmfCwA3Kyw"
+
+(firefox:12094): Gtk-WARNING **: 07:46:35.390: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12094): Gtk-WARNING **: 07:46:35.390: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543491996291	Marionette	INFO	Listening on port 33257
+1543491996318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0006,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+1543492104232	Marionette	INFO	Stopped listening on port 33257
+[Parent 12094, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543492214562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1Vqdy8iOkUxH"
+
+(firefox:12809): Gtk-WARNING **: 07:50:15.027: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12809): Gtk-WARNING **: 07:50:15.027: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543492215949	Marionette	INFO	Listening on port 37647
+1543492215971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543492325221	Marionette	INFO	Stopped listening on port 37647
+[Parent 12809, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12809, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543492581112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iV96PhyUyOsc"
+
+(firefox:13707): Gtk-WARNING **: 07:56:21.597: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13707): Gtk-WARNING **: 07:56:21.597: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543492582555	Marionette	INFO	Listening on port 41213
+1543492582618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543492660980	Marionette	INFO	Stopped listening on port 41213
+[Parent 13707, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543492707884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DFdq2m9W5nDr"
+
+(firefox:14095): Gtk-WARNING **: 07:58:28.366: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14095): Gtk-WARNING **: 07:58:28.366: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543492709427	Marionette	INFO	Listening on port 40679
+1543492709493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543492782994	Marionette	INFO	Stopped listening on port 40679
+[Parent 14095, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543492877728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tR8Ta9hzw7sP"
+
+(firefox:14726): Gtk-WARNING **: 08:01:18.218: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14726): Gtk-WARNING **: 08:01:18.218: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543492879116	Marionette	INFO	Listening on port 41893
+1543492879135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543492882366	Marionette	INFO	Stopped listening on port 41893
+[Parent 14726, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14726, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543492959875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7lFUt9vzKSaE"
+
+(firefox:15133): Gtk-WARNING **: 08:02:40.363: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15133): Gtk-WARNING **: 08:02:40.363: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543492961286	Marionette	INFO	Listening on port 40357
+1543492961385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543492967206	Marionette	INFO	Stopped listening on port 40357
+[Parent 15133, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543493070609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.M0ipAhWofbMW"
+
+(firefox:15528): Gtk-WARNING **: 08:04:31.091: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15528): Gtk-WARNING **: 08:04:31.091: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543493071999	Marionette	INFO	Listening on port 38987
+1543493072025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543493076468	Marionette	INFO	Stopped listening on port 38987
+[Parent 15528, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543493230676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VB2y6nWRLjce"
+
+(firefox:15999): Gtk-WARNING **: 08:07:11.158: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15999): Gtk-WARNING **: 08:07:11.158: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543493232083	Marionette	INFO	Listening on port 37567
+1543493232187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543493277726	Marionette	INFO	Stopped listening on port 37567
+[Parent 15999, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to stat
+1543493347033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wJP775RiACe9"
+
+(firefox:16741): Gtk-WARNING **: 08:09:07.637: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16741): Gtk-WARNING **: 08:09:07.637: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543493348803	Marionette	INFO	Listening on port 38207
+1543493348839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543493416954	Marionette	INFO	Stopped listening on port 38207
+[Parent 16741, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543493594753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pjjghKlpclDg"
+
+(firefox:17636): Gtk-WARNING **: 08:13:15.347: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17636): Gtk-WARNING **: 08:13:15.347: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543493596447	Marionette	INFO	Listening on port 45349
+1543493596460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543493622400	Marionette	INFO	Stopped listening on port 45349
+[Parent 17636, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to stat
+1543493779611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LP4Qfy86meYa"
+
+(firefox:18323): Gtk-WARNING **: 08:16:20.237: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18323): Gtk-WARNING **: 08:16:20.238: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543493781400	Marionette	INFO	Listening on port 40709
+1543493781433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+JavaScript error: http://192.168.0.1/wlanPrimaryNetwork.asp, line 262: TypeError: window.document.wlanPrimaryNetwork.Wpa2Auth is undefined
+1543493807429	Marionette	INFO	Stopped listening on port 40709
+[Parent 18323, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to stat

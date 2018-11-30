@@ -1,0 +1,34 @@
+Daily 16/10/2018
+Horario 13:15
+
+Discussão
+* definição de como implementar a arquitetura cliente-servidor, baseada em pesquisas das tecnologias envolvidas
+	1 - manipulacao em baixo nivel (docker, shell script...)
+	2 - aplicativo Web transformado em Desktop (Ionic)
+* SP#01
+	(15/10/2018 ~ 29/10/2018)
+	Stories 
+	ST01 - Análise e classificação dos casos de teste de wifi
+	ST02 - Definição da arquitetura cliente-servidor
+
+22/10/2018 - Renato vai passar informações sobre o NET 3P
+
+TODO
+	@Julio, @Davi
+	- testar o aplicativo com o aparelho, tentar acessar a WebUI
+	- pesquisar arquitetura cliente-servidor em baixo nível: docker, docker composer, kubernet, conexao SSH, telnet
+	@Renato
+	- classificar os testes de wifi 2.4 e 5.0
+
+WIP:
+	@Renato
+	- classificar os testes de wifi
+
+DONE
+	@Renato
+	- criou a planilha de testes com a coluna de status para classificação
+	- classificou cerca de 13 testes
+	@Julio
+	- instalou e rodou o aplicativo
+	@Davi
+	- instalou e rodou o aplicativo

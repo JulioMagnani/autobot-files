@@ -1,0 +1,114 @@
+Running tests... 
+----------------------------------------------------------------------
+ Check status page tabs are online on firefox ... OK (22.112222)s
+ Check status page tabs are online on chrome ... OK (17.164935)s
+ Check basic page tabs are online on firefox ... OK (12.021909)s
+ Check basic page tabs are online on chrome ... OK (8.654191)s
+ Check all advanced page tabs are online on firefox ... OK (24.421766)s
+ Check all advanced page tabs are online on chrome ... OK (12.464873)s
+ Check all firewall page tabs are online on firefox ... OK (10.622488)s
+ Check all firewall page tabs are online on chrome ... OK (7.653400)s
+ Check all wireless page tabs are online on firefox ... OK (9.176556)s
+ Check all wireless page tabs are online on chrome ... OK (5.580120)s
+ MAC filtering - blank space as mac addr ... OK (11.232834)s
+ MAC filtering - invalid space as mac addr ... OK (11.217066)s
+ Verify enabled SSID broadcast status ... OK (27.953035)s
+ Verify disabled SSID broadcast status ... OK (43.825931)s
+
+----------------------------------------------------------------------
+Ran 14 tests in 0:04:14
+
+OK
+
+
+
+Generating HTML reports... 
+
+Running tests... 
+----------------------------------------------------------------------
+ Check status page tabs are online on firefox ... OK (15.014529)s
+ Check status page tabs are online on chrome ... OK (9.948673)s
+ Check basic page tabs are online on firefox ... OK (8.190832)s
+ Check basic page tabs are online on chrome ... OK (5.892781)s
+ Check all advanced page tabs are online on firefox ... OK (15.236081)s
+ Check all advanced page tabs are online on chrome ... OK (13.391198)s
+ Check all firewall page tabs are online on firefox ... OK (11.724002)s
+ Check all firewall page tabs are online on chrome ... OK (8.876152)s
+ Check all wireless page tabs are online on firefox ... OK (7.922115)s
+ Check all wireless page tabs are online on chrome ... OK (5.760519)s
+ MAC filtering - blank space as mac addr ... OK (10.603080)s
+ MAC filtering - invalid space as mac addr ... OK (9.706315)s
+ Verify enabled SSID broadcast status ... OK (27.892438)s
+ Verify disabled SSID broadcast status ... OK (41.445882)s
+ Check WPS is enabled by default on wifi 2.4Ghz ... ERROR (76.743233)s
+ Test bandwidth 20/channel 1 in 2.4Ghz interface ... OK (55.661762)s
+ Test bandwidth 20/channel 2 in 2.4Ghz interface ... OK (53.661762)s
+ Test bandwidth 20/channel 3 in 2.4Ghz interface ... OK (54.661762)s
+ Test bandwidth 20/channel 4 in 2.4Ghz interface ... OK (55.361762)s
+ Test bandwidth 20/channel 5 in 2.4Ghz interface ... OK (51.661762)s
+ Connect client to bandwidth 20/channel 36 5.0Ghz SSID ... OK (168.649329)s
+
+----------------------------------------------------------------------
+Ran 17 tests in 0:08:41
+
+Generating HTML reports... 
+
+Running tests... 
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+Ran 0 tests in 0:00:00
+
+OK
+
+
+
+Generating HTML reports... 
+
+Running tests... 
+----------------------------------------------------------------------
+
+======================================================================
+ERROR [0.000000s]: setUpClass (autobot.tests.ui.TestUI)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "urllib/request.py", line 1254, in do_open
+  File "http/client.py", line 1106, in request
+  File "http/client.py", line 1151, in _send_request
+  File "http/client.py", line 1102, in endheaders
+  File "http/client.py", line 934, in _send_output
+  File "http/client.py", line 877, in send
+  File "http/client.py", line 849, in connect
+  File "socket.py", line 711, in create_connection
+  File "socket.py", line 702, in create_connection
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "autobot/tests/ui.py", line 27, in setUpClass
+  File "selenium/webdriver/remote/webdriver.py", line 154, in __init__
+  File "selenium/webdriver/remote/webdriver.py", line 243, in start_session
+  File "selenium/webdriver/remote/webdriver.py", line 310, in execute
+  File "selenium/webdriver/remote/remote_connection.py", line 466, in execute
+  File "selenium/webdriver/remote/remote_connection.py", line 528, in _request
+  File "urllib/request.py", line 466, in open
+  File "urllib/request.py", line 484, in _open
+  File "urllib/request.py", line 444, in _call_chain
+  File "urllib/request.py", line 1282, in http_open
+  File "urllib/request.py", line 1256, in do_open
+urllib.error.URLError: <urlopen error [Errno 111] Connection refused>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "autobot/tests/ui.py", line 31, in setUpClass
+autobot.exceptions.SeleniumServerError: ('Remote webdriver', 'Could not reach selenium servers. Check docker!')
+
+----------------------------------------------------------------------
+Ran 0 tests in 0:00:00
+
+FAILED
+ (Errors=1)
+
+Generating HTML reports... 

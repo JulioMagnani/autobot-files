@@ -1,0 +1,574 @@
+[
+    {
+        "suite": "User Interface",
+        "test_cases": [
+            {
+                "label": "Check Status Page",
+                "module": [
+                    "TestUI.test_statusPage_ff",
+                    "TestUI.test_statusPage_chr"
+                ]
+            },
+            {
+                "label": "Check Basic Page",
+                "module": [
+                    "TestUI.test_basicPage_ff",
+                    "TestUI.test_basicPage_chr"
+                ]
+            },
+            {
+                "label": "Check Advanced Page",
+                "module": [
+                    "TestUI.test_advPage_ff",
+                    "TestUI.test_advPage_chr"
+                ]
+            },
+            {
+                "label": "Check Firewall Page",
+                "module": [
+                    "TestUI.test_firewallPage_ff",
+                    "TestUI.test_firewallPage_chr"
+                ]
+            },
+            {
+                "label": "Check Wireless Page",
+                "module": [
+                    "TestUI.test_wirelessPage_ff",
+                    "TestUI.test_wirelessPage_chr"
+                ]
+            },
+            {
+                "label": "Blank Mac Addr",
+                "module": ["TestUI.test_mac_filter_blank"]
+            },
+            {
+                "label": "Invalid Mac Addr",
+                "module": ["TestUI.test_mac_filter_invalid"]
+            }
+        ]
+    },
+    {
+        "suite": "DHCP",
+        "test_cases": [
+            {
+                "label": "Verify IP in Range",
+                "module": ["TestRange.test_ip_range"]
+            }
+        ]
+    },
+    {
+        "suite": "Wifi 2.4 GHZ",
+        "test_cases": [
+            {
+                "label": "20MHz band connectivity",
+                "module": ["TestWifi24.test_bw_20"]
+            },
+            {
+                "label": "40MHz band connectivity",
+                "module": ["TestWifi24.test_bw_40"]
+            },
+            {
+                "label": "Conn to WPA with valid pass",
+                "module": ["TestWifi24.test_wpa_validpass"]
+            },
+            {
+                "label": "Conn to WPA with wrong pass",
+                "module": ["TestWifi24.test_wpa_wrongpass"]
+            },
+            {
+                "label": "Conn to WPA2 with valid pass",
+                "module": ["TestWifi24.test_wpa2_validpass"]
+            },
+            {
+                "label": "Conn to WPA2 with wrong pass",
+                "module": ["TestWifi24.test_wpa2_wrongpass"]
+            },
+            {
+                "label": "Conn to WPA2 then apply WPA",
+                "module": ["TestWifi24.test_wpa2_to_wpa"]
+            },
+            {
+                "label": "Conn to DUT with a custom pass",
+                "module": ["TestWifi24.test_custom_key"]
+            },
+            {
+                "label": "Conn to open security wifi",
+                "module": ["TestWifi24.test_open_sec"]
+            },
+            {
+                "label": "Deny conn for client w no pass",
+                "module": ["TestWifi24.test_deny_opensec"]
+            },
+            {
+                "label": "New SSID disc connected client",
+                "module": ["TestWifi24.test_ssid_newname"]
+            },
+            {
+                "label": "SSID max characters allowed",
+                "module": ["TestWifi24.test_ssid_maxchar"]
+            },
+            {
+                "label": "802.11 n-mode ping local addr",
+                "module": ["TestWifi24.test_nmode_auto"]
+            },
+            {
+                "label": "802.11 n-mode off ping local addr",
+                "module": ["TestWifi24.test_nmode_off"]
+            },
+            {
+                "label": "Ping 100% success",
+                "module": ["TestWifi24.test_ping_100"]
+            },
+            {
+                "label": "Ping while doing network scan",
+                "module": ["TestWifi24.test_ping_scan"]
+            },
+            {
+                "label": "Ping as auto ch & network scan",
+                "module": ["TestWifi24.test_ping_scan_auto"]
+            },
+            {
+                "label": "Test internet fixed channel",
+                "module": ["TestWifi24.test_internet_fix_ch"]
+            },
+            {
+                "label": "WPS is enabled by default",
+                "module": ["TestWifi24.test_wps_isenabled"]
+            },
+            {
+                "label": "Set password w Special chars",
+                "module": ["TestWifi24.test_special_pass"]
+            },
+            {
+                "label": "default encryption/data transfer",
+                "module": ["TestWifi24.test_default_encryp"]
+            },
+            {
+                "label": "Enabled SSID shows up in scan",
+                "module": ["TestWifi24.test_broadcast_on"]
+            },
+            {
+                "label": "Disabled SSID not in scan",
+                "module": ["TestWifi24.test_broadcast_off"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 1",
+                "module": ["TestWifi24.test_bw20_ch1"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 2",
+                "module": ["TestWifi24.test_bw20_ch2"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 3",
+                "module": ["TestWifi24.test_bw20_ch3"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 4",
+                "module": ["TestWifi24.test_bw20_ch4"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 5",
+                "module": ["TestWifi24.test_bw20_ch5"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 6",
+                "module": ["TestWifi24.test_bw20_ch6"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 7",
+                "module": ["TestWifi24.test_bw20_ch7"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 8",
+                "module": ["TestWifi24.test_bw20_ch8"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 9",
+                "module": ["TestWifi24.test_bw20_ch9"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 10",
+                "module": ["TestWifi24.test_bw20_ch10"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 11",
+                "module": ["TestWifi24.test_bw20_ch11"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 12",
+                "module": ["TestWifi24.test_bw20_ch12"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 13",
+                "module": ["TestWifi24.test_bw20_ch13"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel Auto",
+                "module": ["TestWifi24.test_bw20_auto"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 1",
+                "module": ["TestWifi24.test_bw40_ch1"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 2",
+                "module": ["TestWifi24.test_bw40_ch2"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 3",
+                "module": ["TestWifi24.test_bw40_ch3"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 4",
+                "module": ["TestWifi24.test_bw40_ch4"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 5",
+                "module": ["TestWifi24.test_bw40_ch5"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 6",
+                "module": ["TestWifi24.test_bw40_ch6"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 7",
+                "module": ["TestWifi24.test_bw40_ch7"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 8",
+                "module": ["TestWifi24.test_bw40_ch8"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 9",
+                "module": ["TestWifi24.test_bw40_ch9"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel Auto",
+                "module": ["TestWifi24.test_bw40_auto"]
+            }
+        ]
+    },
+    {
+        "suite": "Wifi 5.0 GHZ",
+        "test_cases": [
+            {
+                "label": "Default passkey",
+                "module": ["TestWifi5.test_defaultkey"]
+            },
+            {
+                "label": "SSID Broadcast",
+                "module": ["TestWifi5.test_defaultkey"]
+            },
+            {
+                "label": "DUT denies client connection attempt",
+                "module": ["TestWifi5.test_defaultkey"]
+            },
+            {
+                "label": "Connect client to open wifi network",
+                "module": ["TestWifi5.test_defaultkey"]
+            },
+            {
+                "label": "Conn with incorrect pass WPA2",
+                "module": ["TestWifi5.test_defaultkey"]
+            },
+            {
+                "label": "Conn with correct pass WPA2",
+                "module": ["TestWifi5.test_defaultkey"]
+            },
+            {
+                "label": "WPA2&WPA/WPA2 custom key",
+                "module": ["TestWifi5.test_defaultkey"]
+            },
+            {
+                "label": "Bandwidth 20 & auto channel",
+                "module": ["TestWifi5.test_bw20_ch0"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 36",
+                "module": ["TestWifi5.test_bw20_ch36"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 40",
+                "module": ["TestWifi5.test_bw20_ch40"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 44",
+                "module": ["TestWifi5.test_bw20_ch44"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 48",
+                "module": ["TestWifi5.test_bw20_ch48"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 52",
+                "module": ["TestWifi5.test_bw20_ch52"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 56",
+                "module": ["TestWifi5.test_bw20_ch56"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 60",
+                "module": ["TestWifi5.test_bw20_ch60"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 64",
+                "module": ["TestWifi5.test_bw20_ch64"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 100",
+                "module": ["TestWifi5.test_bw20_ch100"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 104",
+                "module": ["TestWifi5.test_bw20_ch104"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 108",
+                "module": ["TestWifi5.test_bw20_ch108"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 112",
+                "module": ["TestWifi5.test_bw20_ch112"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 116",
+                "module": ["TestWifi5.test_bw20_ch116"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 120",
+                "module": ["TestWifi5.test_bw20_ch120"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 124",
+                "module": ["TestWifi5.test_bw20_ch124"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 128",
+                "module": ["TestWifi5.test_bw20_ch128"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 132",
+                "module": ["TestWifi5.test_bw20_ch132"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 136",
+                "module": ["TestWifi5.test_bw20_ch136"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 140",
+                "module": ["TestWifi5.test_bw20_ch140"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 144",
+                "module": ["TestWifi5.test_bw20_ch144"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 149",
+                "module": ["TestWifi5.test_bw20_ch149"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 153",
+                "module": ["TestWifi5.test_bw20_ch153"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 157",
+                "module": ["TestWifi5.test_bw20_ch157"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 161",
+                "module": ["TestWifi5.test_bw20_ch161"]
+            },
+            {
+                "label": "Bandwidth 20 & Channel 165",
+                "module": ["TestWifi5.test_bw20_ch165"]
+            },
+            {
+                "label": "Bandwidth 40 & auto channel",
+                "module": ["TestWifi5.test_bw40_ch0"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 36",
+                "module": ["TestWifi5.test_bw40_ch36"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 44",
+                "module": ["TestWifi5.test_bw40_ch44"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 52",
+                "module": ["TestWifi5.test_bw40_ch52"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 60",
+                "module": ["TestWifi5.test_bw40_ch60"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 100",
+                "module": ["TestWifi5.test_bw40_ch100"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 108",
+                "module": ["TestWifi5.test_bw40_ch108"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 116",
+                "module": ["TestWifi5.test_bw40_ch116"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 124",
+                "module": ["TestWifi5.test_bw40_ch124"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 132",
+                "module": ["TestWifi5.test_bw40_ch132"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 140",
+                "module": ["TestWifi5.test_bw40_ch140"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 149",
+                "module": ["TestWifi5.test_bw40_ch149"]
+            },
+            {
+                "label": "Bandwidth 40 & Channel 157",
+                "module": ["TestWifi5.test_bw40_ch157"]
+            },
+            {
+                "label": "Bandwidth 80 & auto channel",
+                "module": ["TestWifi5.test_bw80_ch0"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 36",
+                "module": ["TestWifi5.test_bw80_ch36"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 40",
+                "module": ["TestWifi5.test_bw80_ch40"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 48",
+                "module": ["TestWifi5.test_bw80_ch48"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 52",
+                "module": ["TestWifi5.test_bw80_ch52"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 56",
+                "module": ["TestWifi5.test_bw80_ch56"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 60",
+                "module": ["TestWifi5.test_bw80_ch60"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 64",
+                "module": ["TestWifi5.test_bw80_ch64"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 100",
+                "module": ["TestWifi5.test_bw80_ch100"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 104",
+                "module": ["TestWifi5.test_bw80_ch104"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 108",
+                "module": ["TestWifi5.test_bw80_ch108"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 112",
+                "module": ["TestWifi5.test_bw80_ch112"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 116",
+                "module": ["TestWifi5.test_bw80_ch116"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 120",
+                "module": ["TestWifi5.test_bw80_ch120"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 124",
+                "module": ["TestWifi5.test_bw80_ch124"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 128",
+                "module": ["TestWifi5.test_bw80_ch128"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 132",
+                "module": ["TestWifi5.test_bw80_ch132"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 136",
+                "module": ["TestWifi5.test_bw80_ch136"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 140",
+                "module": ["TestWifi5.test_bw80_ch140"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 149",
+                "module": ["TestWifi5.test_bw80_ch149"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 153",
+                "module": ["TestWifi5.test_bw80_ch153"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 157",
+                "module": ["TestWifi5.test_bw80_ch157"]
+            },
+            {
+                "label": "Bandwidth 80 & Channel 161",
+                "module": ["TestWifi5.test_bw80_ch161"]
+            }
+        ]
+    },
+    {
+        "suite": "IPV6",
+        "test_cases": [
+            {
+                "label": "Wifi 5Ghz client ping local ipv6",
+                "module": ["TestIpv6.test_local_5_ipv6"]
+            },
+            {
+                "label": "Wifi 2.4Ghz client ping local ipv6",
+                "module": ["TestIpv6.test_local_24_ipv6"]
+            },
+            {
+                "label": "DUT IPv6 supports prefix delegation",
+                "module": ["TestIpv6.test_local_24_ipv6"]
+            },
+            {
+                "label": "support provision to enab/dis IPv6",
+                "module": ["TestIpv6.test_local_24_ipv6"]
+            },
+            {
+                "label": "Gateway responds to LAN client",
+                "module": ["TestIpv6.test_local_24_ipv6"]
+            },
+            {
+                "label": "LAN client can ping local addr gw",
+                "module": ["TestIpv6.test_local_24_ipv6"]
+            },
+            {
+                "label": "LAN client can ping global addr gw",
+                "module": ["TestIpv6.test_local_24_ipv6"]
+            },
+            {
+                "label": "Responds router solic on LAN",
+                "module": ["TestIpv6.test_local_24_ipv6"]
+            },
+            {
+                "label": "Periodically sends unsolic router adver",
+                "module": ["TestIpv6.test_local_24_ipv6"]
+            }
+        ]
+    }
+]

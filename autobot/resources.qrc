@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="fonts">
+    <file>src/autbot-id-login.png</file>
+    <file>src/autobot-logo.png</file>
+    <file>src/icon_autobot_.ico</file>
+    <file>src/fonts/Montserrat-Bold.ttf</file>
+    <file>src/fonts/Montserrat-Regular.ttf</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>src/icons/quit-icon.png</file>
+    <file>src/icons/quit-icon-selected.png</file>
+    <file>src/icons/open-icon.png</file>
+    <file>src/icons/open-icon-selected.png</file>
+    <file>src/icons/reports-icon-selected.png</file>
+    <file>src/icons/reports-icon.png</file>
+    <file>src/icons/run-test-btn.png</file>
+    <file>src/icons/save-icon-selected.png</file>
+    <file>src/icons/save-icon.png</file>
+    <file>src/autobot-logo.png</file>
+    <file>src/icons/add-icon-.png</file>
+    <file>src/icons/add-icon.png</file>
+    <file>src/icons/dhcp-icon-active.png</file>
+    <file>src/user interface/autobot-ui-background.png</file>
+    <file>src/icons/dhcp-icon.png</file>
+    <file>src/icons/ipv6-icon-active.png</file>
+    <file>src/icons/ipv6-icon.png</file>
+    <file>src/icons/main_background.png</file>
+    <file>src/icons/remove-icon.png</file>
+    <file>src/icons/run-test-btn.png</file>
+    <file>src/icons/running-test.png</file>
+    <file>src/icons/selected-icon-.png</file>
+    <file>src/icons/ui-icon-active.png</file>
+    <file>src/icons/ui-icon.png</file>
+    <file>src/icons/wifi-2.4-icon-active.png</file>
+    <file>src/icons/wifi-2.4-icon.png</file>
+    <file>src/icons/wifi-5.0-active.png</file>
+    <file>src/icons/wifi-5.0-icon.png</file>
+    <file>src/icons/wifi-5.6-icon-active.png</file>
+  </qresource>
+</RCC>

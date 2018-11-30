@@ -1,0 +1,45 @@
+Daily 23/10/2018
+Horario 13:15
+
+Discussão
+
+* SP#01
+	(15/10/2018 ~ 29/10/2018)
+	Stories 
+	ST01 - Análise e classificação dos casos de teste de wifi
+	ST02 - Definição da abordagem e tecnologias da arquitetura cliente-servidor
+
+Definição de como implementar a arquitetura cliente-servidor, baseada em pesquisas das tecnologias envolvidas
+	1 - manipulacao em baixo nivel (docker, shell script...)
+	2 - aplicativo Web transformado em Desktop (Ionic)
+
+22/10/2018 - Renato no IATECAM pela parte da manhã
+
+IMPEDIMENTOS
+- VPN caindo constantemente, Renato vai verificar como resolver
+
+TODO
+	@Renato
+	- convidar a equipe para participar do board do Trello 
+	- mandar instrucoes de como verificar o provisionamento de internet do NET 3P
+	- commitar a planilha de testes no Git
+	- classificar os testes de wifi 2.4 e 5.0
+
+WIP:
+	@Renato
+	- classificar os testes de wifi
+
+	@Karla
+	- levantamento dos modelos de dongle wi-fi para comprar
+DONE
+	@Julio, @Davi
+	- criar branch para subir o aplicativo de chat
+	- desenvolver 1a versão do aplicativo de chat
+	- desenvolver 2a versão do aplicativo de chat (manipular socket com Python)
+
+	@Renato
+	- classificar testes do checklist (88/120 classificados)
+	- conseguir acessar a VPN do IATECAM
+	- criar board do Trello
+
+
